@@ -22,4 +22,4 @@
   };
 })(jQuery);
 
-$('.slides').responsiveBlock();
+//$('.slides').responsiveBlock();

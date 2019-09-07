@@ -5,6 +5,7 @@
 $this->title = 'My Yii Application';
 ?>
 <div class="site-index">
+
     <div class="d1">
         <div class="slides">
             
@@ -14,7 +15,7 @@ $this->title = 'My Yii Application';
         </div>        
     </div>
 
-
+    
     <div class="jumbotron">
 
   
