@@ -1,4 +1,13 @@
+.d1{	
+	display: inline-block;
+}
+
 .slides{
+	width: 400px;
+	height: 700px;
+	background: green;
+}
+.auto{
 	width: 400px;
 	height: 700px;
 	background: green;

@@ -5,10 +5,16 @@
 $this->title = 'My Yii Application';
 ?>
 <div class="site-index">
-
-    <div class="slides">
-        
+    <div class="d1">
+        <div class="slides">
+            
+        </div>
+        <div class="auto">
+            
+        </div>        
     </div>
+
+
     <div class="jumbotron">
 
   

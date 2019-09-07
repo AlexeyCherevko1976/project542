@@ -1,7 +1,7 @@
 (function($){
   jQuery.fn.responsiveBlock = function(options){
     options = $.extend({
-      defColor:"white", //цвет элемента над которым нет курсора
+      defColor:"olive", //цвет элемента над которым нет курсора
       hoverColor:"red" //цвет элемента на который наведен курсор
     }, options);
 
@@ -22,4 +22,4 @@
   };
 })(jQuery);
 
-$('div').responsiveBlock();
+$('.slides').responsiveBlock();
